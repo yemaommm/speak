@@ -1,0 +1,120 @@
+#main {
+	background: rgb(220, 214, 214);
+}
+
+#module {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#module a {
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	cursor: pointer;
+}
+
+#topicList {
+	background: rgb(228, 123, 122);
+	min-height: 300px;
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+
+#topicList h4 {
+	margin-left: 60px;
+}
+
+.topicTable {
+	margin-left: 60px;
+}
+
+.topicTable td {
+	width: 220px;
+	margin-left: 10px;
+	vertical-align: top;
+	font-family: Arial;
+	font-size: 1.2em;
+	height: 50px;
+}
+
+.topicTable label {
+	cursor: pointer;
+	font-weight: normal;
+	margin-bottom: 0px;
+}
+
+.topicTable label.get {
+	color: #2a9541;
+	font-weight: bold;
+}
+
+.topicTable input {
+	vertical-align: top;
+	margin-top: 5px;
+}
+
+.topicTable p {
+	display: inline-block;
+	width: 180px;
+	word-wrap: break-word;
+	margin-left: 5px;
+	margin-bottom: 0px;
+}
+
+#toolBar {
+	margin-top: 10px;
+}
+
+#cart-div {
+	margin-left: 20px;
+	width: 85px;
+	margin-top: 30px;
+}
+
+#chosenList {
+	width: 700px;
+	height: 140px;
+	margin-left: 25px;
+}
+
+#chosenList h4 {
+	margin-left: 10px;
+	margin-top: 50px;
+}
+
+#chosenUl {
+	list-style: none;
+	margin-left: -40px;
+}
+
+#chosenUl li {
+	float: left;
+	width: 175px;
+	height: 45px;
+}
+
+#chosenUl label {
+	cursor: pointer;
+}
+
+#chosenUl input {
+	vertical-align: top;
+	margin-top: 4px;
+}
+
+#chosenUl p {
+	display: inline-block;
+	width: 155px;
+	word-wrap: break-word;
+	margin-left: 5px;
+	margin-bottom: 0px;
+}
+
+#begin {
+	float: right;
+	margin-right: 6px;
+	margin-top: 95px;
+	cursor: pointer;
+}

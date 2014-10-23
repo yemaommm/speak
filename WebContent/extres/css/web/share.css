@@ -1,0 +1,145 @@
+#share-div {
+	background: rgb(134, 196, 171);
+	min-height: 400px;
+}
+
+#share-right {
+	float: right;
+	margin-top: 40px;
+	margin-right: 50px;
+}
+
+#select-div {
+	margin-top: 20px;
+	background: rgb(164, 205, 189);
+}
+
+.select-query {
+	margin-left: 30px;
+	height: 30px;
+}
+
+.point {
+	width: 30px;
+}
+
+#query {
+	margin-left: 80px;
+	margin-bottom: 15px;
+	cursor: pointer;
+}
+
+#share-left {
+	width: 650px;
+	margin-left: 40px;
+	margin-top: 40px;
+	padding-bottom: 20px;
+}
+
+.div-one {
+	border-bottom: 3px solid rgb(220, 220, 220);
+	height: 50px;
+	line-height: 60px;
+	cursor: pointer;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.div-one:HOVER {
+	background: url("share/back.png");
+}
+
+.div-one span {
+	height: 40px;
+}
+
+.show_div {
+	padding-left: 70px;
+	padding-right: 30px;
+	background: rgb(164, 205, 189);
+	line-height: 25px;
+	display: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	position: relative;
+}
+
+.show_div img {
+	cursor: pointer;
+	margin-left: 5px;
+}
+
+.talk {
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+}
+
+.talk img {
+	margin-right: 4px;
+}
+
+.show_topic {
+	display: none;
+	padding-left: 70px;
+	padding-top: 10px;
+	background: white;
+}
+
+.talk-div {
+	background: #f3f3f3;
+	width: 100%;
+	position: relative;
+	padding: 7px;
+	margin-top: 5px;
+}
+
+.talk-div textarea {
+	resize: none;
+	height: 34px;
+}
+
+.talk-div-btn {
+	margin-top: 7px;
+	margin-left: 504px;
+	cursor: pointer;
+}
+
+.div-revert {
+	padding: 5px;
+	padding-top: 12px;
+	padding-bottom: 0px;
+	position: relative;
+}
+
+.p_div {
+	width: 87%;
+}
+
+.div-revert-abtn {
+	position: absolute;
+	right: 5px;
+	top: 12px;
+	cursor: pointer;
+}
+
+.revert-div-revert {
+	background: #f3f3f3;
+	width: 90%;
+	position: relative;
+	padding: 7px;
+	margin-top: 5px;
+	margin-left: 57px;
+	display: none;
+}
+
+.revert-div-revert textarea {
+	resize: none;
+	height: 34px;
+}
+
+.revert-div-btn {
+	margin-top: 7px;
+	margin-left: 438px;
+	cursor: pointer;
+}

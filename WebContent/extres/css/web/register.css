@@ -1,0 +1,21 @@
+#container {
+	height: 100%;
+}
+
+.content {
+	width: 300px;
+}
+
+#isRegister {
+	margin-left: -17px;
+}
+
+#timeBegin {
+	display: none;
+	margin-top: 100px;
+	text-align: center;
+}
+
+#timeBegin label {
+	color: #ed5e58;
+}

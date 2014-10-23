@@ -1,0 +1,105 @@
+@import url("ui.css");
+
+html,body {
+	height: 100%;
+}
+
+#container {
+	width: 100%;
+	margin: 0 auto;
+	font-family: "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
+	background: #F8F8F8;
+}
+
+.maincontainer {
+	width: 1000px;
+	height: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+
+#main {
+	width: 1000px;
+	min-height: 300px;
+	margin: 0 auto;
+	position: relative;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/* head的样式 */
+#head {
+	height: 75px;
+	line-height: 70px;
+	background: white url(img/bg-top.png) repeat-x 50% 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+#logo {
+	z-index: 10000;
+	text-decoration: none;
+}
+
+#logo img {
+	height: 65px;
+}
+
+#head ul {
+	margin-bottom: 0px;
+	margin-top: 15px;
+	margin-left: -30px;
+}
+
+#head li {
+	float: left;
+	list-style: none;
+	margin-left: 35px;
+}
+
+#loginInfo1 {
+	margin-top: 15px;
+}
+
+#loginInfo2 {
+	cursor: pointer;
+	margin-top: 15px;
+}
+
+#loginInfo2 a {
+	text-decoration: none;
+}
+
+#loginInfo2 a:HOVER {
+	color: #ed5e58;
+}
+
+#loginInfo2 li {
+	margin-left: 0px;
+	width: 100%;
+	text-align: center;
+}
+
+.dropdown-menu {
+	right: -1px;
+	left: auto;
+	top: 32px;
+	min-width: 120px;
+}
+
+.dropdown-menu .divider {
+	margin: 4px 0px;
+}
+
+/* foot的样式 */
+#foot_top {
+	background: #3a3a3a;
+	height: 30px;
+}
+
+#foot_bottom {
+	line-height: 32px;
+	text-align: center;
+	background: white;
+	padding-top: 10px;
+	margin-bottom: 5px;
+}

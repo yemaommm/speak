@@ -1,0 +1,72 @@
+.carousel-inner .item img,.carousel-inner .item a img {
+	height: 350px;
+	width: 100%;
+}
+
+.carousel-control {
+	font-size: 50px;
+	width: 0px;
+}
+
+.carousel-control .glyphicon-chevron-left,.carousel-control .glyphicon-chevron-right {
+	top: 42%;
+}
+
+.carousel-control .glyphicon-chevron-left {
+	left: -60px;
+}
+
+.carousel-control .glyphicon-chevron-right {
+	left: 10px;
+}
+
+/* back */
+#back1 {
+	background: url("home/back1.png");
+	width: 1000px;
+	height: 249px;
+	margin-top: 40px;
+	position: relative;
+}
+
+#topic1 {
+	position: absolute;
+	right: 70px;
+	z-index: 999;
+}
+
+#topic2 {
+	position: absolute;
+	right: 40px;
+	z-index: 1000;
+	display: none;
+}
+
+#back2 {
+	background: url("home/back2.png") right;
+	width: 1000px;
+	height: 249px;
+	margin-top: 30px;
+}
+
+#back3 {
+	background: url("home/back3.png");
+	width: 1000px;
+	height: 266px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#bbs1 {
+	position: absolute;
+	right: 120px;
+	z-index: 999;
+}
+
+#bbs2 {
+	position: absolute;
+	right: 80px;
+	z-index: 1000;
+	top: 25px;
+	display: none;
+}

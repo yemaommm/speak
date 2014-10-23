@@ -1,0 +1,49 @@
+#title {
+	position: absolute;
+	top: -15px;
+	right: 0;
+}
+
+#module {
+	background: rgb(83, 83, 83);
+	padding-top: 10px;
+}
+
+#the-select {
+	margin-left: 120px;
+}
+
+#step1 {
+	margin-left: 3px;
+}
+
+#step3 {
+	margin-left: -5px;
+}
+
+#the-select select {
+	width: 160px;
+	margin-left: 25px;
+}
+
+#the-select #part {
+	margin-left: 92px;
+}
+
+#the-select #examDate {
+	margin-left: 92px;
+}
+
+#the-select #examNum {
+	margin-left: 92px;
+}
+
+#div-begin {
+	text-align: right;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.form-group {
+	margin-bottom: 0px;
+}

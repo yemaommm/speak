@@ -1,0 +1,15 @@
+#container {
+	height: 100%;
+}
+
+.content {
+	width: 300px;
+}
+
+#isRemember {
+	margin-left: -17px;
+}
+
+.error {
+	color: #ed5e58;
+}

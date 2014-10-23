@@ -1,0 +1,45 @@
+#module {
+	text-align: center;
+	margin-top: 20px;
+}
+
+#module a {
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#shadow {
+	background: rgba(0, 0, 0, 0.63);
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	z-index: 9999;
+	cursor: pointer;
+}
+
+#help1 {
+	position: absolute;
+	top: 0;
+	z-index: 10000;
+	margin-left: -70px;
+	cursor: pointer;
+}
+
+#help2 {
+	position: absolute;
+	top: 0;
+	z-index: 10000;
+	margin-left: 20px;
+	cursor: pointer;
+	display: none;
+}
+
+#help3 {
+	position: absolute;
+	top: 0;
+	z-index: 10000;
+	cursor: pointer;
+	display: none;
+}

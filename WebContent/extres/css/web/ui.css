@@ -1,0 +1,64 @@
+.inlineblock {
+	display: inline-block;
+	*display: inline;
+	zoom: 1;
+	vertical-align: top;
+}
+
+.modal-footer {
+	margin-top: 0px;
+}
+
+.f12 {
+	font-size: 12px;
+}
+
+.f14 {
+	font-size: 14px;
+}
+
+.f16 {
+	font-size: 16px;
+}
+
+.f18 {
+	font-size: 18px;
+}
+
+.fb {
+	font-weight: bold;
+}
+
+.fi {
+	font-style: italic;
+}
+
+.fn {
+	font-weight: normal;
+}
+
+.gray-red {
+	color: #555;
+}
+
+.gray-red:HOVER {
+	color: #ed5e58;
+	text-decoration: none;
+}
+
+.gray-red.red {
+	color: #ed5e58;
+}
+
+.gray-red.white {
+	color: white;
+}
+
+.white-red {
+	color: white;
+}
+
+.white-red:HOVER {
+	color: #ed5e58;
+	text-decoration: none;
+}

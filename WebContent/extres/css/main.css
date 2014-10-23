@@ -1,0 +1,129 @@
+html,body {
+	width: 100%;
+	margin: 0px;
+	font-size: 13px;
+	background-color: #f5f5f5;
+}
+
+/* main css */
+#main {
+	width: 1250px;
+	margin: 0 auto;
+}
+
+.content {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#form {
+	width: 600px;
+}
+
+/* head css */
+#header {
+	height: 55px;
+}
+
+#navbar {
+	background-image: linear-gradient(to bottom, #3c3c3c 0%, #222222 100%);
+}
+
+.header_nav {
+	width: 1250px;
+	margin: 0 auto;
+}
+
+#reset_password {
+	cursor: pointer;
+}
+
+.loading {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.5;
+	z-index: 9999999;
+}
+
+.loading div {
+	margin: 0 auto;
+	background: #eee;
+	padding: 10px;
+	width: 200px;
+	margin-top: 250px;
+}
+
+/* foot css */
+#footer {
+	height: 20px;
+}
+
+/* ui css */
+.modal-footer {
+	margin-top: 0px;
+}
+
+.inlineblock {
+	display: inline-block;
+	*display: inline;
+	zoom: 1;
+	vertical-align: top;
+}
+
+#image_upload {
+	background: #1f84c9;
+	padding: 3px;
+	width: 76px;
+	position: absolute;
+	top: 27px;
+	left: 812px;
+}
+
+.upload-div {
+	background: #1f84c9;
+	padding: 3px;
+	width: 140px;
+}
+
+/* table css */
+.datagrid_header {
+	font-weight: bold;
+}
+
+.table>tbody>tr>td {
+	vertical-align: inherit;
+}
+
+.table>tbody>tr>td>label {
+	margin-bottom: 0px;
+}
+
+._seq {
+	width: 30px;
+}
+
+._check {
+	width: 20px;
+}
+
+._action {
+	width: 250px;
+	text-align: center;
+}
+
+/* color */
+.red {
+	background: #d63b22;
+}
+
+.green {
+	background: #2a9541;
+}
+
+.blue {
+	background: #1f84c9;
+}

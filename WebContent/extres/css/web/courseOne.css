@@ -1,0 +1,30 @@
+#course_ad {
+	height: 200px;
+	border-radius: 10px;
+	background: #34b0e6;
+}
+
+#course_div {
+	margin-top: 30px;
+	display: inline-block;
+}
+
+#course_left {
+	width: 640px;
+	height: 480px;
+	margin-left: 30px;
+}
+
+#course_right {
+	width: 250px;
+	margin-left: 40px;
+	text-align: center;
+}
+
+#myAccount {
+	margin-bottom: 12px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #dcdcdc;
+	border-color: rgba(0, 0, 0, .15);
+	font-size: 18px;
+}

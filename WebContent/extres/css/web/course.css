@@ -1,0 +1,30 @@
+#course_ad {
+	height: 200px;
+	border-radius: 10px;
+	background: #34b0e6;
+}
+
+#course_div {
+	margin-top: 20px;
+	display: inline-block;
+}
+
+#course_ul {
+	list-style: none;
+	margin-left: -55px;
+}
+
+#course_ul li {
+	width: 290px;
+	float: left;
+	margin-left: 40px;
+}
+
+#course_ul h3 {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+#main {
+	margin-bottom: 0px;
+}
